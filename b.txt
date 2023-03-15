@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 기존 미완성 프로젝트
 print('hello world')
 # freshman이 작성코드가 있어야
@@ -6,3 +7,7 @@ print('hello world')
 
 # 팀장 작업내용
 print("안녕하세요")
+print("반갑습니다.")
+=======
+print('hello world!!!')
+>>>>>>> cff49bd981c3d46cef56f8839699cdd1cda64299
